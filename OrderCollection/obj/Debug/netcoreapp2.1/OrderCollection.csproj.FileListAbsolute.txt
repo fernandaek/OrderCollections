@@ -1,0 +1,11 @@
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.csprojAssemblyReference.cache
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.csproj.CoreCompileInputs.cache
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.AssemblyInfoInputs.cache
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.AssemblyInfo.cs
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\bin\Debug\netcoreapp2.1\OrderCollection.deps.json
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\bin\Debug\netcoreapp2.1\OrderCollection.runtimeconfig.json
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\bin\Debug\netcoreapp2.1\OrderCollection.runtimeconfig.dev.json
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\bin\Debug\netcoreapp2.1\OrderCollection.dll
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\bin\Debug\netcoreapp2.1\OrderCollection.pdb
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.dll
+C:\Summer Courser\C#\Lesson 6\OrderCollection\OrderCollection\obj\Debug\netcoreapp2.1\OrderCollection.pdb
